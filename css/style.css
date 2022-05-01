@@ -10,3 +10,9 @@
     z-index: -100;
     background-size:auto;
 }
+
+.box1 h1 {
+    font-size: 50px;
+	text-align:center;
+    opacity:90%;
+}
